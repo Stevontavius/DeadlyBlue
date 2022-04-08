@@ -22,13 +22,11 @@ I have not tried on 1.17x 1.16x 1.15x or 1.14x.
 
 ![spigot-og](https://user-images.githubusercontent.com/80566162/162448625-9bfcff86-33f6-4bd3-aeff-ea7f544424f2.png)
 
-#Q/A
+# Q/A
 
 (Q) Will this plugin be updated?
-
 (A) Yes plugin will go through changes such as adding blocks bug fixes.
 
 
 (Q) How can I cotact you if there is a bug?
-
 (A) Message me on discord so I can help you fix the problem. Sapphire#3391 (My discord tag might change depending on my nitro subscription so [lookup my name using](https://discord.id/) my id:)
