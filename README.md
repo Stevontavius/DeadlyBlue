@@ -3,9 +3,10 @@ This is a Minecraft spigot plugin
 
 If you really wanna download the source code and make changes. This is an eclipse project.
 
+![alt-text](https://user-images.githubusercontent.com/80566162/162448931-7b8d1bed-c366-4cdd-bfe6-11380f89805e.png)
+
 You can [migrate the project into intellij](https://www.jetbrains.com/help/idea/import-project-from-eclipse-page-1.html#open-eclipse-project) if you prefer
 
-![eclipse-logo-bw-800x188](https://user-images.githubusercontent.com/80566162/162448931-7b8d1bed-c366-4cdd-bfe6-11380f89805e.png)
 
 ## Version
 1.0
