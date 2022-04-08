@@ -1,0 +1,5 @@
+name: BlueIsDeadly
+version: 1.0
+author: BreakSapphire
+main: com.breaksapphire.deadlyblue.Main
+description: Touching anything blue will kill you instantly.
