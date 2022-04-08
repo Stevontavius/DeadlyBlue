@@ -3,7 +3,7 @@ This is a Minecraft spigot plugin
 
 If you really wanna download the source code and make changes. This is an eclipse project.
 
-You can [migrate the project into intellij](https://www.jetbrains.com/help/idea/import-project-from-eclipse-page-1.html#open-eclipse-project | width=100) if you prefer
+You can [migrate the project into intellij](https://www.jetbrains.com/help/idea/import-project-from-eclipse-page-1.html#open-eclipse-project) if you prefer
 
 
 ## Version
