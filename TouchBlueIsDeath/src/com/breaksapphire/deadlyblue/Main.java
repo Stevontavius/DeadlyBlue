@@ -5,7 +5,7 @@
  * Please let me know if there is any bugs
  * 
  * I ended up doing very time consuming methods to make this work.
- * I tried to make this plugin in less than 2 hours
+ * I tried to make this plugin in less than 12 hours
  * Thanks for understanding
  * 
  * Discord: Sapphire#3391
