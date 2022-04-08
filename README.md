@@ -5,6 +5,8 @@ If you really wanna download the source code and make changes. This is an eclips
 
 You can [migrate the project into intellij](https://www.jetbrains.com/help/idea/import-project-from-eclipse-page-1.html#open-eclipse-project) if you prefer
 
+![eclipse-logo](https://user-images.githubusercontent.com/80566162/162447993-fc927b26-c403-4141-8db9-2f01da92271e.png)
+
 ## Version
 1.0
 
