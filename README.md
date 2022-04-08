@@ -24,9 +24,8 @@ I have not tried on 1.17x 1.16x 1.15x or 1.14x.
 
 # Q/A
 
-(Q) Will this plugin be updated?
-
-(A) Yes plugin will go through changes such as adding blocks bug fixes.
+<p>(Q) Will this plugin be updated?</p>
+<p>(A) Yes plugin will go through changes such as adding blocks bug fixes.</p>
 
 
 
